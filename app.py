@@ -1,4 +1,1 @@
-a = ""
 
-print(len(a))
-    
